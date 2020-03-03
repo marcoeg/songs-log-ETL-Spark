@@ -1,3 +1,5 @@
+![alt text](https://img.shields.io/badge/python-3.7-blue) 
+
 # Songs Log ETL Spark
 Sparkify mobile app events log database and ETL pipeline with Spark for songs analysis on a AWS data lake
 
